@@ -1,7 +1,7 @@
 
 ## Hi there 👋, I'm Jarzt
 
-🔭I'm currently working as a Backend Developer, and I'll soon become a Full-Stack Developer :D
+🔭I'm currently working as a Backend Developer, and I'll soon become a Full-Stack Developer (Frontend and Devops) :D
 
 ### 📫 Reach me
 ![Gmail](https://img.shields.io/badge/dev.luanpham@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
