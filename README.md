@@ -7,13 +7,6 @@
 ![Gmail](https://img.shields.io/badge/dev.luanpham@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Skype](https://img.shields.io/static/v1?style=for-the-badge&message=live:devilstorm.luan&color=00AFF0&logo=Skype&logoColor=white&label=)
 
---- 
-
-### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarzt-pham&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
-
----
-
 ### 🧑‍💻 Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
