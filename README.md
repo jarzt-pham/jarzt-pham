@@ -8,6 +8,7 @@
 ### 📫 Reach me
 ![Gmail](https://img.shields.io/badge/dev.luanpham@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Skype](https://img.shields.io/static/v1?style=for-the-badge&message=live:devilstorm.luan&color=00AFF0&logo=Skype&logoColor=white&label=)
+![Linkedin](https://img.shields.io/static/v1?style=for-the-badge&message=https://www.linkedin.com/in/luan-ph/&logo=Linkedin&logoColor=white&label=)
 
 ---
 
